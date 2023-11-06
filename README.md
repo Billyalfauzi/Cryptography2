@@ -91,7 +91,7 @@ layar menggunakan pernyataan echo.
 
 
 # Output
-![Tampilan](img/ss.png.)
+![Tampilan](img/ss.png)
 
 ## Done
 
